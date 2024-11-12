@@ -1,4 +1,4 @@
-# Unit w Programming Project #
+# Unit 3 Programming Project #
 ## Goal: ##
 _Create a Java program using Unit w topics to demonstrate knowledge and mastery._
 ## Requirements: ##

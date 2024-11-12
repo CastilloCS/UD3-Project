@@ -1,6 +1,6 @@
-# Unit 2 Programming Project #
+# Unit w Programming Project #
 ## Goal: ##
-_Create a Java program using Unit 2 topics to demonstrate knowledge and mastery._
+_Create a Java program using Unit w topics to demonstrate knowledge and mastery._
 ## Requirements: ##
 1. Tie it to a real-world topic. Create a `README.md` ([markdown cheatsheet here](https://www.markdownguide.org/cheat-sheet/)) file with an explanation of your real-world topic:
     - Should be linked to an article, podcast, video, etc. ***OR***
@@ -22,7 +22,7 @@ _Create a Java program using Unit 2 topics to demonstrate knowledge and mastery.
 ## Resources: ##
 -	OLI Modules + Lecture Videos - for examples, Java syntax rules, and strategy
 -	Labs - larger examples, getting inspiration for ideas
--	You are allowed to expand on your Unit 1 Programming Project as well! Or do a full upgrade on a previous lab you found interesting.
+-	You are allowed to expand on your Unit 1 and/or 2 Programming Project as well! Or do a full upgrade on a previous lab you found interesting.
 
 ## Scoring Guide (EARN Scale): ##
 All group members might not recieve the same score. Be sure to indicate which parts of the project you contributed. You may also be asked to explain portions of the code so that I can distinguish your personal understanding of the material.

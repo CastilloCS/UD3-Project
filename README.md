@@ -5,16 +5,23 @@ _Create a Java program using Unit 2 topics to demonstrate knowledge and mastery.
 1. Tie it to a real-world topic. Create a `README.md` ([markdown cheatsheet here](https://www.markdownguide.org/cheat-sheet/)) file with an explanation of your real-world topic:
     - Should be linked to an article, podcast, video, etc. ***OR***
     - A personal idea for something that is useful/fun for you, your community, etc.
-2. Must use materials from, **and restricted to**, topics we've covered so far in a useful way. Specifically: 
-    - Must include at least one array (either single or multi-dimensional array is fine)
-    - Must include conditional (if/else, switch) statements
-    - Must include at least one loop (while, for, or do-while are all fine)
-    - You may use the `UtilityBelt` class (provided) to collect user input following examples shown in labs
-    - You may also use anything we've learned so far from Unit 1, such as variables, static methods, etc.
-
+2. Your project must use materials from, and restricted to, topics we've covered so far. Specifically: 
+- [ ] Must include at least 1 programmer-defined class for each group member, in addition to the `Main` class.
+  - [ ] each class definition must have **at least** 3 instance variables representing two or more datatypes (`String`, `int`, `double`, `char`, `boolean`).
+  - [ ] each class definition must have **all** of our required methods for encapsulation:
+	- [ ] default constructor method
+	- [ ] full constructor method
+	- [ ] accesssor/getter and mutator/setter methods for each instance variable
+	- [ ] `setAll` method
+	- [ ] `toString` method
+	- [ ] `equals` method
+  - [ ] you *may* add any additional methods, static or non-static, that are useful to your project, the above is just the mininum
+- [ ] Must have a driver class (`Main`) that illustrates the use of each programmer-defined class type.
+- [ ] You may use `UtilityBelt` (provided) or create a `Scanner` object to collect user input (you can use the Labs as examples of some possibilities)
+- [ ] You may also use anything we've learned so far from Unit 1 or Unit 2.
 ## Resources: ##
 -	OLI Modules + Lecture Videos - for examples, Java syntax rules, and strategy
--	Replit Labs - larger examples, getting inspiration for ideas
+-	Labs - larger examples, getting inspiration for ideas
 -	You are allowed to expand on your Unit 1 Programming Project as well! Or do a full upgrade on a previous lab you found interesting.
 
 ## Scoring Guide (EARN Scale): ##
